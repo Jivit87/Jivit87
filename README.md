@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hey there! I'm Jivit Rana — a curious mind driven by code, creativity, and impact. I'm a Computer Science student passionate about turning ideas into interactive, intelligent, and intuitive digital experiences.<br><br>💡 I love building things that solve real-world problems — from AI-integrated websites, to FastAPI backends, to Android apps I started making in high school.<br>🌐 Currently exploring the powerful mix of Front-End + AI + Backend, with projects ranging from educational tools to automation.
+Hey! I’m **Jivit Rana**, a **first-year B.Tech student in Artificial Intelligence**. I’m a **passionate full-stack developer** with a strong foundation in **MERN stack**, **Tailwind CSS**, and **Next.js**, and have built several **responsive, user-friendly web apps**. I’ve solved **250+ DSA problems on LeetCode**, strengthening my **problem-solving** and **backend logic** using technologies like **FastAPI**, **MongoDB**, and **Node.js**.
+
+Alongside development, I’m deeply interested in **AI** and **Generative AI**. I’ve completed **Andrew Ng’s Supervised Machine Learning** course and started exploring tools like **LangChain** to integrate AI into web platforms. My projects range from **AI-powered productivity tools** to **real-time chat apps** and **image generators** — all focused on solving **real-world problems** through **clean design**, **functionality**, and **intelligent features**.
 
 
 ## 🌐 Socials:
