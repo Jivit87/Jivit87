@@ -9,7 +9,7 @@ Alongside development, I’m deeply interested in **AI** and **Generative AI**. 
 
 ### 🐍 Contribution Snake
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/snake-dark1.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/snake.svg" />
   <img alt="GitHub Contribution Snake" src="./assets/snake.svg" />
 </picture>
